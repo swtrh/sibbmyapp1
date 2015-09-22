@@ -1,8 +1,16 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /*background-image:url("../images/seagull.jpg");*/
 }
 
 a {
   color: #00B7FF;
+}
+h1 {
+  color: darkmagenta;
+}
+p {
+  color: darkblue;
+  font-style: italic;
 }
